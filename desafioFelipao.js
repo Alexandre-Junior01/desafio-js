@@ -1,5 +1,5 @@
-let nomeHeroi = prompt("Digite o nome do herói:");
-let xpHeroi = parseInt(prompt("Digite a quantidade de experiência (XP) do herói:"));
+let nomeHeroi = prompt("digite o nome do herói:");
+let xpHeroi = parseInt(prompt("digite a quantidade de experiência (XP) do herói:"));
 let nivel;
 
 if (xpHeroi < 1000) {
