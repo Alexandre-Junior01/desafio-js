@@ -29,4 +29,4 @@ let derrotas = parseInt(prompt("Digite o número de derrotas:"));
 
 let resultado = calcularRankeadas(vitorias, derrotas);
 
-console.log(`O Herói tem um saldo de ${resultado.saldoVitorias} e está no nível de ${resultado.nivel}`);
+console.log(`O herói tem um saldo de ${resultado.saldoVitorias} e está no nível de ${resultado.nivel}`);
