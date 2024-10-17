@@ -24,10 +24,10 @@ class Heroi {
     }
 }
 
-const heroi1 = new Heroi("Armando", 30, "guerreiro");
-const heroi2 = new Heroi("Guabiraba", 120, "mago");
-const heroi3 = new Heroi("Biu", 45, "monge");
-const heroi4 = new Heroi("Martins", 25, "ninja");
+const heroi1 = new Heroi("Alexandre", 50, "guerreiro");
+const heroi2 = new Heroi("Danillo", 80, "mago");
+const heroi3 = new Heroi("Biu", 75, "monge");
+const heroi4 = new Heroi("Martins", 35, "ninja");
 
 heroi1.atacar(); 
 heroi2.atacar(); 
